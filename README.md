@@ -1,15 +1,15 @@
-# 🔮 Keyword-Based Next Word Predictor (LSTM)
+#  Keyword-Based Next Word Predictor (LSTM)
 
 This project is a **next-word prediction model** built using an **LSTM (Long Short-Term Memory)** neural network. Given a keyword or input phrase, the model predicts the most likely next word based on training data.
 
-## 🚀 Features
+##  Features
 
 - Uses **LSTM** for sequence modeling.
 - Trained on custom or public text corpus.
 - Accepts a **keyword or phrase** and predicts the next likely word.
 - Easily extendable and customizable.
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 - Embedding Layer
 - LSTM Layer
@@ -17,7 +17,7 @@ This project is a **next-word prediction model** built using an **LSTM (Long Sho
 
 The model learns to predict the next word based on context from the input sequence.
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.x
 - TensorFlow / Keras
